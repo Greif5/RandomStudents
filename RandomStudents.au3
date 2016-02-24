@@ -1,6 +1,8 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
+#AutoIt3Wrapper_Icon=icon.ico
+#AutoIt3Wrapper_Outfile=RandomStudents.exe
 #AutoIt3Wrapper_Res_Description=Equal but random grouping
-#AutoIt3Wrapper_Res_Fileversion=1.0
+#AutoIt3Wrapper_Res_Fileversion=1.0.0.0
 #AutoIt3Wrapper_Res_LegalCopyright=GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 #AutoIt3Wrapper_Res_Field=Made by|Greif5
 #AutoIt3Wrapper_Res_Field=Compile Date|%date% %time%
