@@ -16,6 +16,6 @@ It doesn't have any other reason.
 
 ## To-Do's
 
-[ ] Add multilanguage usage (eng and german)<br>
+[ ] Add multilanguage usage (english and german)<br>
 [ ] Translate source code into english<br>
 [ ] Allow other languages by loading an .ini file
