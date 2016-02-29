@@ -13,3 +13,9 @@ meant to be used by schools and other teaching facilities to group students into
 It will be made in AutoIT at first.
 Mostly becouse it's the language I can work well with.
 It doesn't have any other reason.
+
+## To-Do's
+
+[ ] Add multilanguage usage (eng and german)<br>
+[ ] Translate source code into english<br>
+[ ] Allow other languages by loading an .ini file
